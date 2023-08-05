@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"math"
 	"os"
 	"strconv"
 	"strings"
@@ -30,6 +31,9 @@ func main() {
 	default:
 		panic("Invalid operation, please check your input numbers and try again.")
 	} // switch ends
+
+	// round the result for 2 digits in floating values
+	result = math.Round(result*100) / 100
 
 	fmt.Printf("This result is: %v\n\n\n", result)
 
