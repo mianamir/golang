@@ -1,4 +1,4 @@
-package projects
+package inheritence_composition
 
 import "fmt"
 

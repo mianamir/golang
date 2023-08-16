@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd3b5ad8-550c-46dc-be3a-ee2bef9417e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/oop/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/projects/IoT_based_smart_car_system.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/projects/industry_4.0_production_line_control.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/abstraction/ar_commerce_platform.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/abstraction/code_reivew_facede_decorator_patterns.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/abstraction/core.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/abstraction/fintech_investment_platform.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/abstraction/industry_4.0_smart_factory_control.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/abstraction/smart_home_control.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/abstraction/vr_experience_platform.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/oop/inheritence_composition/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/projects/IoT_based_smart_car_system.go" beforeDir="false" afterPath="$PROJECT_DIR$/oop/inheritence_composition/IoT_based_smart_car_system.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/projects/industry_4.0_production_line_control.go" beforeDir="false" afterPath="$PROJECT_DIR$/oop/inheritence_composition/industry_4.0_production_line_control.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,26 +41,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/amirarif/Documents/software_development/golang/golang&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/amirarif/Documents/software_development/golang/golang_design_craft",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oop/projects" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="go build golang" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="golang" />
