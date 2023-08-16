@@ -1,5 +1,5 @@
 ```markdown
-# GoDesignCraft
+# GolangDesignCraft
 
 ![GoDesignCraft Logo](logo.png) <!-- You can replace this with your own logo if desired -->
 
