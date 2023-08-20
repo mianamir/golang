@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd3b5ad8-550c-46dc-be3a-ee2bef9417e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/oop/abstraction/ar_commerce_platform.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/abstraction/code_reivew_facede_decorator_patterns.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/abstraction/core.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/abstraction/fintech_investment_platform.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/abstraction/industry_4.0_smart_factory_control.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/abstraction/smart_home_control.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/abstraction/vr_experience_platform.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/projects/cloud_automation_tool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/projects/cloud_monitoring_tool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/projects/e_commerce_platform.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/projects/smart_home_automation_system.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/oop/inheritence_composition/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/projects/IoT_based_smart_car_system.go" beforeDir="false" afterPath="$PROJECT_DIR$/oop/inheritence_composition/IoT_based_smart_car_system.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/projects/industry_4.0_production_line_control.go" beforeDir="false" afterPath="$PROJECT_DIR$/oop/inheritence_composition/industry_4.0_production_line_control.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +57,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oop/abstraction" />
       <recent name="$PROJECT_DIR$/oop/projects" />
     </key>
   </component>
