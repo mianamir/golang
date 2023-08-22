@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd3b5ad8-550c-46dc-be3a-ee2bef9417e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/grasp_patterns/controller.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grasp_patterns/creator.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grasp_patterns/high_cohesion.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grasp_patterns/indirection.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grasp_patterns/information_expert.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grasp_patterns/low_coupling.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grasp_patterns/polymorphism.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grasp_patterns/projects/grasp_blockchain_app.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grasp_patterns/protected_variations.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grasp_patterns/pure_fabrication.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grasp_patterns/responsibility_layer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/READ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/isp_interfaces.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/lsp_orderprocessing.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/ocp_shoppingcart.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/projects/online_movie_streaming_platform/isp_interfaces.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/projects/online_movie_streaming_platform/lsp_billing.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/projects/online_movie_streaming_platform/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/projects/online_movie_streaming_platform/ocp_user_management.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/projects/online_movie_streaming_platform/srp_movie_management.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/srp_book_management.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,26 +41,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/amirarif/Documents/software_development/golang/golang_design_craft&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/amirarif/Documents/software_development/golang/golang_design_craft",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/oop/abstraction" />
