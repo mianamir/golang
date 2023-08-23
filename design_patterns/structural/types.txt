@@ -1,0 +1,23 @@
+Factory Method Pattern:
+
+Defines an interface for creating objects in a superclass but allows subclasses to alter the type of
+objects that will be created.
+
+Abstract Factory Pattern:
+
+Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+
+Singleton Pattern:
+
+Ensures that a class has only one instance and provides a global point of access to that instance.
+Builder Pattern:
+
+Separates the construction of a complex object from its representation, allowing the same construction process to
+create various representations.
+
+Prototype Pattern:
+
+Creates new objects by copying an existing object (prototype) rather than creating a new instance from scratch.
+Object Pool Pattern:
+
+Manages a pool of objects that can be reused for improved performance, especially for costly-to-create instances.

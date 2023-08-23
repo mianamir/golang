@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd3b5ad8-550c-46dc-be3a-ee2bef9417e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/solid_principles/READ.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/isp_interfaces.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/lsp_orderprocessing.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/ocp_shoppingcart.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/projects/online_movie_streaming_platform/isp_interfaces.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/projects/online_movie_streaming_platform/lsp_billing.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/projects/online_movie_streaming_platform/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/projects/online_movie_streaming_platform/ocp_user_management.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/projects/online_movie_streaming_platform/srp_movie_management.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/srp_book_management.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_patterns/structural/smart_factory_dashboard/READ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_patterns/structural/smart_factory_dashboard/abstract_factory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_patterns/structural/smart_factory_dashboard/builder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_patterns/structural/smart_factory_dashboard/factory_method.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_patterns/structural/smart_factory_dashboard/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_patterns/structural/smart_factory_dashboard/object_pool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_patterns/structural/smart_factory_dashboard/prototype.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_patterns/structural/smart_factory_dashboard/singleton.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_patterns/structural/types.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +62,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/oop/abstraction" />
       <recent name="$PROJECT_DIR$/oop/projects" />
