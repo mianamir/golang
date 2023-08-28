@@ -1,0 +1,27 @@
+Behavioral design patterns are a category of design patterns in software engineering that focus on how objects and components interact and communicate with each other to accomplish various tasks and behaviors. These patterns provide solutions for effectively managing the communication and collaboration between objects in a system. Behavioral design patterns help improve the flexibility, efficiency, and organization of code by defining the responsibilities and relationships between objects.
+
+There are several behavioral design patterns, each addressing different aspects of object interaction. Some common behavioral design patterns include:
+
+1. **Chain of Responsibility:** This pattern establishes a chain of processing objects, where each object in the chain can handle a request or pass it along to the next object in the chain.
+
+2. **Command:** The Command pattern encapsulates a request as an object, allowing for parameterization of clients with different requests and the ability to queue or log requests.
+
+3. **Interpreter:** This pattern defines a grammar for interpreting language expressions, providing an interpreter that evaluates these expressions.
+
+4. **Iterator:** The Iterator pattern provides a way to access the elements of a collection without exposing its underlying representation, simplifying iteration and traversal.
+
+5. **Mediator:** Mediator pattern centralizes communication between objects, reducing direct dependencies and promoting loose coupling.
+
+6. **Memento:** Memento pattern captures an object's internal state and allows it to be restored later, without exposing its internal structure.
+
+7. **Observer:** This pattern defines a one-to-many dependency between objects, ensuring that when one object changes state, all its dependents are notified and updated.
+
+8. **State:** The State pattern allows an object to change its behavior when its internal state changes, providing a more flexible alternative to using conditionals.
+
+9. **Strategy:** Strategy pattern defines a family of interchangeable algorithms, enabling clients to choose an appropriate algorithm at runtime.
+
+10. **Template Method:** Template Method pattern defines the structure of an algorithm but allows its steps to be implemented by subclasses, promoting code reuse.
+
+11. **Visitor:** Visitor pattern lets you add further operations to objects without having to modify them, by encapsulating the operation in a separate visitor object.
+
+These patterns help in creating more maintainable, modular, and extensible software systems by promoting well-defined interactions and responsibilities between different components.
